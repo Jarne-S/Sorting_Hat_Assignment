@@ -1,0 +1,188 @@
+body{
+    background-color: #049cac;
+}
+
+.content{
+    display: block;
+    background-color: white;
+
+    margin-top: 5%;
+    margin-right: 25%;
+    margin-bottom:0;
+    margin-left:25%;
+
+
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.center{
+    text-align: center;
+}
+
+.headerTekst{
+    font-size: 3vw;
+    color:black;
+}
+
+.websiteLogo{
+    width: 6vw;
+}
+
+.buttonTekst{
+    font-size: 1.5vw;
+    color:white;
+    font-weight: bold;
+}
+
+.navbutton{
+    background-color:#e73e16;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    width: 20vw;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.navbutton:hover{
+    background-color: darkorange;
+}
+
+#form-life-description{
+    width:30vw;
+    height: 50px;
+}
+
+.inputWidth{
+    width: 8vw;
+}
+
+.responsiveText{
+    font-size: 1.2vw;
+}
+
+.responsiveText2{
+    font-size: 2vw;
+}
+
+.checkWidth{
+    width: 40vw;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.margin{
+    margin-top: 40px;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.nameSize{
+    font-size: 1.75vw;
+}
+
+.profileWidth{
+    width:17.5vw;
+}
+
+.beschrijvingsveld{
+    display:block;
+    margin-top: 5%;
+    margin-right: 20%;
+    margin-bottom: 30px;
+    margin-left:20%;
+    padding-right: 2%;
+    padding-left: 2%;
+    text-align: left;
+    border: 1px solid black;
+}
+
+.bold{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.space_evenly{
+    justify-content: space-evenly;
+}
+
+.width{
+    width: 10vw;
+    height: 12vw;
+}
+
+.voteButton{
+    background-color:#e73e16;
+    padding-left: 0.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+.voteButton:hover{
+    background-color: darkorange;
+}
+
+.gryffindor{
+    background-image: url("../images/Picture1.png");
+}
+
+.hufflepuff{
+    background-image:url("../images/Picture2.png");
+}
+
+.ravenclaw{
+    background-image: url("../images/Picture3.png");
+}
+
+.slytherin{
+    background-image: url("../images/Picture4.png");
+}
+
+.houseLogo{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.next_end{
+    width: 30vw;
+    height: 4.5vw;
+}
+
+.nohover:hover{
+    background-color:#e73e16;
+}
+
+.pTekst{
+    font-size: 1.5vw;
+    color:black;
+}
+
+.checkwidth2{
+    width: 20vw;
+}
+
+.padding{
+    padding-left: 2%;
+}
+
+.lettertype{
+    font-family: 'Dancing Script', cursive;
+}
